@@ -10,6 +10,14 @@ body{
     margin-bottom: 100px;
 }
 
+header {
+    background-color:lawngreen;
+    color:black;
+    text-align: center;
+    padding: 20px;
+
+}
+
 .container{
 
 display: flex;
@@ -25,5 +33,5 @@ width: 100%;
     height: auto;
     border-radius: 10px;
     margin-top: 20px;
-    
+
 }
